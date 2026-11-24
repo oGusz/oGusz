@@ -15,6 +15,11 @@
   </picture>
 </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oGusz/oGusz/main/assets/mdgp-dark.svg">
+  <img src="https://raw.githubusercontent.com/oGusz/oGusz/main/assets/mdgp-light.svg" width="100%" alt="MDGP, Mapeamento do Genoma Político (repositório privado): teste dissertativo online com análise por IA, tema por tema, que se junta num relatório final, o Genoma Político. Next.js, TypeScript, Supabase, Vercel e IA com Gemini, Claude e GPT.">
+</picture>
+
 <p align="right">
   <a href="https://github.com/oGusz?tab=repositories">Ver todos os repositórios →</a>
 </p>
